@@ -1,0 +1,4 @@
+name: numpad123-4x6-as-peripheral
+append:
+  EXTRA_CONF_FILE: numpad123-4x6-as-peripheral.conf
+  EXTRA_DTC_OVERLAY_FILE: numpad123-4x6-as-peripheral.overlay

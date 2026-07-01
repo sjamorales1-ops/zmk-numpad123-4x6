@@ -1,0 +1,5 @@
+config SHIELD_NUMPAD123_4X6
+    def_bool $(shields_list_contains,numpad123_4x6)
+
+config SHIELD_NUMPAD123_4X6_DONGLE
+    def_bool $(shields_list_contains,numpad123_4x6_dongle)
