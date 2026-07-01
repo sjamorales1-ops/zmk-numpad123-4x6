@@ -29,5 +29,14 @@
         { "row": 6, "col": 3, "x": 3, "y": 6 }
       ]
     }
-  }
+  },
+  "sensors": [
+        {
+      "ref": "encoder0",
+      "name": "encoder0",
+      "identifier": "encoder0",
+      "compatible": "alps,ec11",
+      "label": "Encoder"
+    }
+  ]
 }
